@@ -1,0 +1,22 @@
+site_name: MolCrafts
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+
+nav:
+  - Home: 'index.md'
+  - MolPy: '!include ./molpy/mkdocs.yml'
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/MolCrafts
+  generator: false
+
+plugins:
+  - monorepo
+
+copyright: Copyright &copy; 2016 - 2020 Roy Kid
