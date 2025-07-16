@@ -4,3 +4,6 @@
 [submodule "molnex"]
 	path = molnex
 	url = https://github.com/Roy-Kid/molnex.git
+[submodule "molexp"]
+	path = molexp
+	url = https://github.com/Roy-Kid/molexp.git
