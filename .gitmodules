@@ -1,0 +1,6 @@
+[submodule "molpy"]
+	path = molpy
+	url = https://github.com/Roy-Kid/molpy.git
+[submodule "molnex"]
+	path = molnex
+	url = https://github.com/Roy-Kid/molnex.git
