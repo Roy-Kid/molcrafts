@@ -7,3 +7,9 @@
 [submodule "molexp"]
 	path = molexp
 	url = https://github.com/Roy-Kid/molexp.git
+[submodule "molvis"]
+	path = molvis
+	url = https://github.com/Roy-Kid/molvis.git
+[submodule "molcpp"]
+	path = molcpp
+	url = https://github.com/Roy-Kid/molcpp.git

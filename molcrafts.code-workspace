@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "molexp",
+			"path": "molexp"
+		},
+		{
+			"name": "molpy",
+			"path": "molpy"
+		},
+		{
+			"name": "molcpp",
+			"path": "molcpp"
+		}
+	]
+}
