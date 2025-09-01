@@ -13,3 +13,6 @@
 [submodule "molcpp"]
 	path = molcpp
 	url = https://github.com/Roy-Kid/molcpp.git
+[submodule "molq"]
+	path = molq
+	url = https://github.com/Roy-Kid/molq.git
